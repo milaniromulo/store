@@ -1,0 +1,14 @@
+// {
+//   "store.search.whirlpool": {
+//     "allowed": [
+//       "whirlpool-gallery"
+//     ]
+//   },
+//   "store.custom.whirlpool": {
+//     "before": [],
+//     "after": [],
+//     "allowed": [
+//       "whirlpool-gallery"
+//     ]
+//   }
+// }
